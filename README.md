@@ -1,15 +1,17 @@
 ## Olá eu sou a André Canh, desenvolvedor back-end!
 
-Abaixo, um pouco das tecnologias que possuo conhecimento e experiência prática:<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<br />
+Graduando em Ciência da Computação pela Universidade Paulista (UNIP)
+Atualmente estou me aprofundado no ecossistema do Javascript, realizando Bootcamps e cursos online a fim de me tornar Desenvolvedor Full Stack. Também possuo conhecimento em programação C# Sharp e em banco de dados SQL Server.
+</br>
+Segue abaixo as tecnologias que uso com frequencia<br>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   
 ##
  
