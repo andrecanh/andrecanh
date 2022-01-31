@@ -2,7 +2,7 @@
 
 Graduando em Ciência da Computação pela Universidade Paulista (UNIP)
 Atualmente estou me aprofundado no ecossistema do Javascript, realizando Bootcamps e cursos online a fim de me tornar Desenvolvedor Full Stack. Também possuo conhecimento em programação C# Sharp e em banco de dados SQL Server.
-</br>
+<br>
 Segue abaixo as tecnologias que uso com frequencia<br>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -12,7 +12,7 @@ Segue abaixo as tecnologias que uso com frequencia<br>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-</br> 
+<br> 
 ##
  
 <div>
