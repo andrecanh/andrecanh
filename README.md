@@ -12,6 +12,7 @@ Atualmente estou me aprofundado no ecossistema do Javascript, realizando Bootcam
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="7%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <br> 
 ##
  
